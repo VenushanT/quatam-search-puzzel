@@ -1,6 +1,12 @@
 # Quantum Maze Puzzle
 
-![quatam-search-puzzel](https://github.com/user-attachments/assets/94a5a087-1a09-44f7-87da-d9b82f90a200)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/94a5a087-1a09-44f7-87da-d9b82f90a200" 
+    alt="quantum-search-puzzle" 
+    width="100%" 
+  />
+</p>
 
 
 A visually stunning, 3D interactive maze puzzle application built with React, Three.js, and Tailwind CSS.
